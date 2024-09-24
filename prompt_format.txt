@@ -1,0 +1,7 @@
+prompt_format = """Below is a question. Write a response that accurately answers that question.
+
+### Question:
+{}
+
+### Response:
+{}"""
