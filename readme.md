@@ -12,3 +12,8 @@ A LLM application powered by Llama 3.0 for financial queries.
 
 The app couldn't be deployed as it needed a good cpu to install dependencies as well as other packages but Streamlit Community cloud only provides a 512 MB CPU which is not sufficient to run a LLM app.
 Here is the video demo of the same and code is inside [app.py](src/app.py)
+
+
+
+https://github.com/user-attachments/assets/561072fa-3ec7-4f57-bbd5-f4a53d120917
+
